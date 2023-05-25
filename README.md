@@ -4,7 +4,7 @@
 ### `Plataforma:` Alura
 ### `Tecnologias:`
   - C#
-  - Asp.Net Core
+  - ASP.NET Core
   - Entity Framework
   - AutoMapper
   - NewtonsoftJson
